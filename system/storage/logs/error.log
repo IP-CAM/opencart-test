@@ -1,0 +1,7 @@
+2017-10-09 2:38:32 - PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 2:40:32 - PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 3:15:22 - PHP Notice:  Use of undefined constant custom - assumed 'custom' in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 3:15:22 - PHP Notice:  Use of undefined constant dateformat - assumed 'dateformat' in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 3:15:22 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 3:15:22 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
+2017-10-09 3:15:22 - PHP Warning:  Division by zero in C:\xampp\htdocs\OpenCart2.3\catalog\controller\custom\dateformat.php on line 5
